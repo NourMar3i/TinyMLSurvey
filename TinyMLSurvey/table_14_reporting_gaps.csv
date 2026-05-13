@@ -1,0 +1,9 @@
+Metric Type,Number of Papers,Percentage
+Classification accuracy,95,91.3%
+Inference latency (ms),86,82.7%
+Model size (KB),58,55.8%
+RAM/Flash usage (KB),80,76.9%
+Energy per inference (mJ),40,38.5%
+Real-world deployment validation,59,56.7%
+Quantization adoption,58,55.8%
+Code availability,14,13.5%

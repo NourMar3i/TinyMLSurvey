@@ -1,0 +1,15 @@
+Review Stage,Count
+Identification,
+"  Records identified via database search (IEEE, ACM, Scopus)",151
+  Records after duplicate removal,151
+Screening,
+  Total screening decisions recorded,151
+  Records with initial inter-reviewer agreement (92.7%),140
+Eligibility,
+  Full-text articles assessed for eligibility (post-adjudication),151
+  Full-text articles excluded,47
+    -- Reason: EX_PLATFORM / EX_NO_DEPLOY,14
+    -- Reason: EX_DUP,2
+    -- Reason: EX_NO_METRICS / OUT_OF_SCOPE,31
+Inclusion,
+  Total studies included in final Core Corpus,104 (100 core papers + 4 core surveys)
